@@ -13,7 +13,7 @@ Smooth Animations: Powered by Framer Motion
 Check out live site [WeatherDashboard](https://weather-dashboard-phi-ten.vercel.app)
 Check another live site [Host by Github](weather-dashboard-git-master-susmitadas9639-gmailcoms-projects.vercel.app)
 
-Technologies Used:👩🏻‍💻
+### Technologies Used:👩🏻‍💻
 Frontend: React.js, Vite
 Styling: Tailwind CSS
 Animations: Framer Motion
